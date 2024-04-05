@@ -4,7 +4,7 @@ You can look at all certificates that I gained.
 
 | # | Name of the Certificate | Organization | Year | Validity |
 |---|-------------------------|--------------|------|----------|
-| 1 |                         |              |      |          |
+| 1 | Windsurfing Certificate| Datça Municipality Summer Sport School|2009|Forever|
 | 2 |                         |              |      |          |
 | 3 |                         |              |      |          |
 | 4 |                         |              |      |          |
