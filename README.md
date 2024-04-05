@@ -1,5 +1,5 @@
 # Certificates
-You can look at all certificates that I gained. (From A to Z)
+You can look at all certificates that I gained.
 
 
 | # | Name of the Certificate | Organization | Year | Validity |
