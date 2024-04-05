@@ -58,19 +58,19 @@ You can look at all certificates that I gained.
 | 52 | SoloLearn 🡪 HTML Course | SoloLearn | 07/2021 | Forever |
 | 53 | SoloLearn 🡪 Python for Data Science | SoloLearn | 12/2021 | Forever |
 | 54 | SoloLearn 🡪 CSS Course | SoloLearn | 11/2021 | Forever |
-| 55 | SoloLearn 🡪 Game Development with JS | SoloLearn | 10/2022 | Forever |
-| 56 | Udemy 🡪 The HTML Web Developer Bootcamp | Udemy | 03/2023 | Forever |
-| 57 | Udemy 🡪 Windows 10 System Admin & Basic Computer Skills | Udemy | 10/2023 | Forever |
-| 58 | Udemy 🡪 Teacher Training - How to Teach Online - Remote Teaching 1Hr | Udemy | 01/2024 | Forever |
-| 59 | Udemy 🡪 Veri Depolama Teknolojileri Temel Bilgiler | Udemy | 03/2024 | Forever |
-| 60 | Udemy 🡪 Python: Theoretical Understanding of Python | Udemy | 03/2024 | Forever |
-| 61 | Udemy 🡪 Learn Basic Commands in Linux Shell | Udemy | 03/2024 | Forever |
-| 62 | Udemy 🡪 Master Data Management | Udemy | 03/2024 | Forever |
-| 63 | McKinsey & Company: McKinsey Forward Program | McKinsey & Company | 11/2023 | Forever |
-| 64 | IBM : Data Science Foundations - Level 1 | IBM | 11/2023 | Forever |
-| 65 | Miuul: Introduction to Data Science and Artificial Intelligence | Miuul | 09/2023 | Forever |
-| 66 | Global AI Hub: Hyperautomation and RPA | Global AI Hub | 07/2022 | Forever |
-| 67 | Global AI Hub: Python’a Giriş | Global AI Hub | 07/2022 | Forever |
-| 68 | Global AI Hub: Introduction to Python | Global AI Hub | 01/2024 | Forever |
-| 69 | Global AI Hub: Python for Machine Learning | Global AI Hub | 02/2024 | Forever |
+| 55 | Global AI Hub: Hyperautomation and RPA | Global AI Hub | 07/2022 | Forever |
+| 56 | Global AI Hub: Python’a Giriş | Global AI Hub | 07/2022 | Forever |
+| 57 | SoloLearn 🡪 Game Development with JS | SoloLearn | 10/2022 | Forever |
+| 58 | Udemy 🡪 The HTML Web Developer Bootcamp | Udemy | 03/2023 | Forever |
+| 59 | Miuul: Introduction to Data Science and Artificial Intelligence | Miuul | 09/2023 | Forever |
+| 60 | Udemy 🡪 Windows 10 System Admin & Basic Computer Skills | Udemy | 10/2023 | Forever |
+| 61 | McKinsey & Company: McKinsey Forward Program | McKinsey & Company | 11/2023 | Forever |
+| 62 | IBM : Data Science Foundations - Level 1 | IBM | 11/2023 | Forever |
+| 63 | Udemy 🡪 Teacher Training - How to Teach Online - Remote Teaching 1Hr | Udemy | 01/2024 | Forever |
+| 64 | Global AI Hub: Introduction to Python | Global AI Hub | 01/2024 | Forever |
+| 65 | Global AI Hub: Python for Machine Learning | Global AI Hub | 02/2024 | Forever |
+| 66 | Udemy 🡪 Veri Depolama Teknolojileri Temel Bilgiler | Udemy | 03/2024 | Forever |
+| 67 | Udemy 🡪 Python: Theoretical Understanding of Python | Udemy | 03/2024 | Forever |
+| 68 | Udemy 🡪 Learn Basic Commands in Linux Shell | Udemy | 03/2024 | Forever |
+| 69 | Udemy 🡪 Master Data Management | Udemy | 03/2024 | Forever |
 | 70 | Global AI Hub: Akbank Python Bootcamp | Global AI Hub | 03/2024 | Forever |
