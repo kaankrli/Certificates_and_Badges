@@ -6,18 +6,17 @@ You can look at all certificates that I gained.
 |---|-------------------------|--------------|------|----------|
 | 1 | Windsurfing Certificate| Datça Municipality Summer Sport School|2009|Forever|
 
-```markdown
 | #  | Name of the Certificate                                        | Organization                                 | Year  | Validity |
 |----|----------------------------------------------------------------|----------------------------------------------|-------|----------|
-| 1  | Turkcell Geleceği Yazanlar 🡪 Android 101                      | Turkcell Geleceği Yazanlar                  | 02/2014|          |
-| 2  | Marks and Spencer Service Certificate                          | Marks and Spencer                           | 05/2014|          |
-| 3  | Turkcell Geleceği Yazanlar 🡪 iOS 101                          | Turkcell Geleceği Yazanlar                  | 01/2015|          |
-| 4  | Turkcell Geleceği Yazanlar 🡪 Windows Phone 101                | Turkcell Geleceği Yazanlar                  | 01/2015|          |
-| 5  | Turkcell Geleceği Yazanlar 🡪 iOS 201                          | Turkcell Geleceği Yazanlar                  | 03/2015|          |
-| 6  | Turkcell Geleceği Yazanlar 🡪 iOS 301                          | Turkcell Geleceği Yazanlar                  | 02/2015|          |
-| 7  | Turkcell Geleceği Yazanlar 🡪 Windows Phone 201                | Turkcell Geleceği Yazanlar                  | 01/2015|          |
-| 8  | Turkcell Geleceği Yazanlar 🡪 Web Programming 101              | Turkcell Geleceği Yazanlar                  | 10/2015|          |
-| 9  | Turkcell Geleceği Yazanlar 🡪 Scratch 101                      | Turkcell Geleceği Yazanlar                  | 08/2015|          |
+| 1  | Android 101                      | Turkcell Geleceği Yazanlar                  | 02/2014|          |
+| 2  | Marks and Spencer Service Certificate                         | Marks and Spencer                           | 05/2014|          |
+| 3  |  iOS 101                          | Turkcell Geleceği Yazanlar                  | 01/2015|          |
+| 4  | Windows Phone 101                | Turkcell Geleceği Yazanlar                  | 01/2015|          |
+| 5  | iOS 201                          | Turkcell Geleceği Yazanlar                  | 03/2015|          |
+| 6  | iOS 301                          | Turkcell Geleceği Yazanlar                  | 02/2015|          |
+| 7  | Windows Phone 201                | Turkcell Geleceği Yazanlar                  | 01/2015|          |
+| 8  | Web Programming 101              | Turkcell Geleceği Yazanlar                  | 10/2015|          |
+| 9  | Scratch 101                      | Turkcell Geleceği Yazanlar                  | 08/2015|          |
 | 10 | Turkcell Geleceği Yazanlar 🡪 Web Programming 201              | Turkcell Geleceği Yazanlar                  | 10/2015|          |
 | 11 | Turkcell Geleceği Yazanlar 🡪 Web Programming 301              | Turkcell Geleceği Yazanlar                  | 12/2015|          |
 | 12 | Turkcell Geleceği Yazanlar 🡪 Arduino 101                      | Turkcell Geleceği Yazanlar                  | 11/2015|          |
@@ -47,10 +46,10 @@ You can look at all certificates that I gained.
 | 36 | Udemy 🡪 Quickfix Chess - Learn Chess In Under An Hour         | Udemy                                        | 10/2015|          |
 | 37 | Udemy 🡪 The Complete Guide to İOS 6 for İPhone                | Udemy                                        | 01/2016|          |
 | 38 | Udemy 🡪 The Complete Guide to iOS 6 for iPad                  | Udemy                                        | 01/2016|          |
-| 39 | Udemy 🡪 Reaching Your Kickstarter Goals                      | Udemy                                        | 01/2016|          |
+| 39 | Udemy 🡪 Reaching Your Kickstarter Goals                      | Udemy                                         | 01/2016|          |
 | 40 | Udemy 🡪 MS Word Training for Complete Beginners...            | Udemy                                        | 03/2016|          |
-| 41 | Udemy 🡪 Bilgisayar Alanlarından İş Dünyasına Geçiş           | Udemy                                        | 08/2016|          |
-| 42 | Udemy 🡪 İnsan İlişkilerinde Başarılı Olmanın Yolları         | Udemy                                        | 08/2016|          |
+| 41 | Udemy 🡪 Bilgisayar Alanlarından İş Dünyasına Geçiş           | Udemy                                         | 08/2016|          |
+| 42 | Udemy 🡪 İnsan İlişkilerinde Başarılı Olmanın Yolları         | Udemy                                         | 08/2016|          |
 | 43 | SoloLearn 🡪 Java Tutorial                                      | SoloLearn                                    | 02/2018|          |
 | 44 | SoloLearn 🡪 SQL Fundamentals                                   | SoloLearn                                    | 05/2020|          |
 | 45 | Global AI Hub: First step to Artificial Intelligence           | Global AI Hub                                | 09/2021|          |
@@ -59,4 +58,3 @@ You can look at all certificates that I gained.
 | 48 | Global AI Hub: Python’a Giriş                                  | Global AI Hub                                | 07/2022|          |
 | 49 | Global AI Hub: Introduction to Python                          | Global AI Hub                                | 01/2024|          |
 | 50 | Global AI Hub: Python for Machine Learning                     | Global AI Hub                                | 02/2024|          |
-```
