@@ -1,7 +1,7 @@
-# Certificates
-You can look at all certificates that I gained.
+# Certificates and Badges
+You can look at all Certificates and Badges that I gained.
 
-
+CERTIFICATES
 | # | Name of the Certificate | Organization | Year | Validity |
 |---|-------------------------|--------------|------|----------|
 | 1 | Datça Municipality Summer Sport School Windsurfing Certificate | Datça Municipality Summer Sport School | 08/2009 | Forever |
@@ -74,3 +74,9 @@ You can look at all certificates that I gained.
 | 68 | Udemy 🡪 Learn Basic Commands in Linux Shell | Udemy | 03/2024 | Forever |
 | 69 | Udemy 🡪 Master Data Management | Udemy | 03/2024 | Forever |
 | 70 | Global AI Hub: Akbank Python Bootcamp | Global AI Hub | 03/2024 | Forever |
+
+BADGES
+| #  | Name of the Badge                                         | Issuing Organization     | Year    | Validity |
+|----|-----------------------------------------------------------|-------------------------|---------|----------|
+| 1  | IBM : Data Science Foundations - Level 1 Badge            | IBM                     | 11/2023 | Forever  |
+| 2  | McKinsey & Company : McKinsey Forward Program Badge       | McKinsey & Company      | 11/2023 | Forever  |
