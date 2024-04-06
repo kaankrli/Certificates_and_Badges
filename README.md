@@ -74,6 +74,7 @@ CERTIFICATES
 | 68 | Udemy 🡪 Learn Basic Commands in Linux Shell | Udemy | 03/2024 | Forever |
 | 69 | Udemy 🡪 Master Data Management | Udemy | 03/2024 | Forever |
 | 70 | Global AI Hub: Akbank Python Bootcamp | Global AI Hub | 03/2024 | Forever |
+| 71 | Global AI Hub: Aygaz Generative AI Bootcamp| Global AI Hub | 04/2024 | Forever |
 
 BADGES
 | #  | Name of the Badge                                         | Issuing Organization     | Year    | Validity |
