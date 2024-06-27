@@ -77,6 +77,7 @@ CERTIFICATES
 | 71 | Global AI Hub: Aygaz Generative AI Bootcamp: Introduction to Prompt Engineering| Global AI Hub | 04/2024 | Forever |
 | 72 | Udemy 🡪 Cloud Computing & Hybrid Cloud vs On-Premise Solutions | Udemy | 05/2024 | Forever |
 | 73 | Satış ve İkna Teknikleri | Enstitü İstanbul İSMEK | 06/2024 | Forever |
+| 74 | Mülakat Teknikleri | Enstitü İstanbul İSMEK | 06/2024 | Forever |
 
 BADGES
 | #  | Name of the Badge                                         | Issuing Organization     | Year    | Validity |
