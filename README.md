@@ -85,3 +85,4 @@ BADGES
 |----|-----------------------------------------------------------|-------------------------|---------|----------|
 | 1  | IBM : Data Science Foundations - Level 1 Badge            | IBM                     | 11/2023 | Forever  |
 | 2  | McKinsey & Company : McKinsey Forward Program Badge       | McKinsey & Company      | 11/2023 | Forever  |
+| 3  | Introduction to Generative AI                             | Google Cloud            | 10/2024 | Forever  |
