@@ -88,3 +88,4 @@ BADGES
 | 3  | Introduction to Generative AI                             | Google Cloud            | 10/2024 | Forever  |
 | 4  | Introduction to Responsible AI                            | Google Cloud            | 10/2024 | Forever  |
 | 5  | Introduction to Image Generation                          | Google Cloud            | 10/2024 | Forever  |
+| 6  | Introduction to Large Language Models                     | Google Cloud            | 10/2024 | Forever  |
