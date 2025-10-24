@@ -80,6 +80,8 @@ CERTIFICATES
 | 74 | Mülakat Teknikleri | Enstitü İstanbul İSMEK | 06/2024 | Forever |
 | 75 | Dijital Beden Dili | Enstitü İstanbul İSMEK | 07/2024 | Forever |
 | 76 | DNS ve İnternetin Sırları Eğitimi | Udemy   | 10/2025 | Forever |
+| 77 | IT and Information Security 101 - Cyber Security for Beginners | Udemy | 10/2025 | Forever |
+
 
 BADGES
 | #  | Name of the Badge                                         | Issuing Organization     | Year    | Validity |
