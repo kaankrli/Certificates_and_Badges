@@ -82,7 +82,7 @@ CERTIFICATES
 | 76 | DNS ve İnternetin Sırları Eğitimi | Udemy   | 10/2025 | Forever |
 | 77 | IT and Information Security 101 - Cyber Security for Beginners | Udemy | 10/2025 | Forever |
 | 78 | SSL/TLS Protocol and Handshake Process | Udemy | 10/2025 | Forever |
-| 79 |  |  |  |  |
+| 79 | Disaster Recovery - IT & Business Continuity Planning (BCP)| Udemy | 10/2025 | Forever |
 | 80 |  |  |  |  |
 
 
