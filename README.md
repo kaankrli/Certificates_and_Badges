@@ -85,6 +85,7 @@ CERTIFICATES
 | 79 | Disaster Recovery - IT & Business Continuity Planning (BCP)| Udemy | 10/2025 | Forever |
 | 80 | ComputerCavalry: Command & Conquer (Command Line Basics) | Udemy | 10/2025 | Forever |
 | 81 |  C++: A complete guide to INTERMEDIATE C++ | Udemy | 11/2025 | Forever |
+| 82 |  A Gentle Introduction to Python Programming - Lite | Udemy | 11/2025 | Forever |
 
 
 BADGES
