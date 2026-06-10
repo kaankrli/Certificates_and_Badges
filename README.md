@@ -87,6 +87,7 @@ CERTIFICATES
 | 81 |  C++: A complete guide to INTERMEDIATE C++ | Udemy | 11/2025 | Forever |
 | 82 |  A Gentle Introduction to Python Programming - Lite | Udemy | 11/2025 | Forever |
 | 83 |  Fiori Eğitimleri | FLO Group | 05/2026 | Forever |
+| 84 |  FLO Group Dijital Oryantasyon Eğitimi | FLO Group | 06/2026 | Forever |
 
 
 BADGES
