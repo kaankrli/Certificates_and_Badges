@@ -88,6 +88,7 @@ CERTIFICATES
 | 82 |  A Gentle Introduction to Python Programming - Lite | Udemy | 11/2025 | Forever |
 | 83 |  Fiori Eğitimleri | FLO Group | 05/2026 | Forever |
 | 84 |  FLO Group Dijital Oryantasyon Eğitimi | FLO Group | 06/2026 | Forever |
+| 85 |  Ayakkabının Serüveni | FLO Group | 06/2026 | Forever |
 
 
 BADGES
