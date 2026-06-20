@@ -91,6 +91,7 @@ CERTIFICATES
 | 85 |  Ayakkabının Serüveni | FLO Group | 06/2026 | Forever |
 | 86 |  ISO 14001:2015 Çevre Yönetim Sistemi Hakkında Bilgilendirme | FLO Group | 06/2026 | Forever |
 | 87 |  ISO 45001:2018 İş Sağlığı ve Güvenliği Yönetim Sistemi Hakkında Bilgilendirme | FLO Group | 06/2026 | Forever |
+| 88 |  Kasa İade GP Bilgi Girişi Düzenlemesi | FLO Group | 06/2026 | Forever |
 
 
 BADGES
